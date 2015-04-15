@@ -15,7 +15,7 @@ import se.mah.k3.skaneAPI.control.Constants;
 import se.mah.k3.skaneAPI.model.Journey;
 import se.mah.k3.skaneAPI.model.Journeys;
 import se.mah.k3.skaneAPI.xmlparser.Parser;
-
+///test comment for test-commit
 public class TestActivity extends Activity {
     private  ArrayList<Journey> journeyList;
     @Override
